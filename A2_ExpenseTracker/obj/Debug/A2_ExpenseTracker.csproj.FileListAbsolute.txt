@@ -1,0 +1,9 @@
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\bin\Debug\A2_ExpenseTracker.exe.config
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\bin\Debug\A2_ExpenseTracker.exe
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\bin\Debug\A2_ExpenseTracker.pdb
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\obj\Debug\A2_ExpenseTracker.csproj.AssemblyReference.cache
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\obj\Debug\A2_ExpenseTracker.Properties.Resources.resources
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\obj\Debug\A2_ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\obj\Debug\A2_ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\obj\Debug\A2_ExpenseTracker.exe
+C:\Users\alber\Source\Repos\32998_A2_25040332\A2_ExpenseTracker\obj\Debug\A2_ExpenseTracker.pdb
